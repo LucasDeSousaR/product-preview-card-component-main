@@ -66,5 +66,5 @@ Worrying again about the responsiveness of the site, in the CSS file, I used @me
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LucasDeSousaR)
-- Twitter - [@yourusername](https://twitter.com/LucasDeSousaR)
+- Frontend Mentor - [@LucasDeSousaR](https://www.frontendmentor.io/profile/LucasDeSousaR)
+- Twitter - [@LucasDeSousaR](https://twitter.com/LucasDeSousaR)
