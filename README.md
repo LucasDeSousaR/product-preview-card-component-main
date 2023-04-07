@@ -22,15 +22,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
-
-![](product-preview-card-component-main\images\screenshot-desktop.png)
-![](product-preview-card-component-main\images\screenshot-mobile.png)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Preview Card](https://lucasdesousar.github.io/product-preview-card-component-main/)
+
 
 ## My process
 
